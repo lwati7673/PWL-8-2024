@@ -1,2 +1,1 @@
-Nama    : Lisnawati
-Npm     : 5520122156
+Ini adalah kalimat pertama
